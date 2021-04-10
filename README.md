@@ -1,3 +1,3 @@
 # Alustus
 
-Vaatame, mis saama hakkab.
+Vaatame, mis saama hakkab!!
