@@ -6,8 +6,7 @@ Vaata meie tegemisi!
 Tooted
 
 Külmsuitsu lõhefilee
-
-[](https://user-images.githubusercontent.com/81916500/114323144-9b38f680-9b2c-11eb-8d9f-a31376116da0.jpg)
+(https://user-images.githubusercontent.com/81916500/114323144-9b38f680-9b2c-11eb-8d9f-a31376116da0.jpg)
 
 Külmsuitsu lõhefilee apelsini-ja sidrunipipraga
 
