@@ -2,9 +2,9 @@
 
 Vaata meie tegemisi!
 
-[Tooted]
+[Tooted]() 
 
-[Tooted](Külmsuitsu lõhefilee);(https://user-images.githubusercontent.com/81916500/114323713-2915e100-9b2f-11eb-8595-ad88d03d35c0.jpg)
+Külmsuitsu lõhefilee (https://user-images.githubusercontent.com/81916500/114323713-2915e100-9b2f-11eb-8595-ad88d03d35c0.jpg)
 
 
 Külmsuitsu lõhefilee apelsini-ja sidrunipipraga
