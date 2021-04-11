@@ -4,9 +4,8 @@ Vaata meie tegemisi!
 
 [Tooted]
 
-[Tooted](Külmsuitsu lõhefilee)
-[![image](https://user-images.githubusercontent.com/81916500/114323650-d50afc80-9b2e-11eb-95c6-aa3597303f0a.png)
-(https://user-images.githubusercontent.com/81916500/114323144-9b38f680-9b2c-11eb-8d9f-a31376116da0.jpg)
+[Tooted](Külmsuitsu lõhefilee);(https://user-images.githubusercontent.com/81916500/114323713-2915e100-9b2f-11eb-8595-ad88d03d35c0.jpg)
+
 
 Külmsuitsu lõhefilee apelsini-ja sidrunipipraga
 
