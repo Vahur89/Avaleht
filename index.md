@@ -1,22 +1,22 @@
-## Welcome to GitHub Pages
+Tere tulemast Vuntsi kalade lehele !
 
-You can use the [editor on GitHub](https://github.com/Vahur89/Vahkre/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Meie kodu
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+
+ Kes me oleme
+ Mida pakume 
+ Kontakt
+ Pildid
+![Lõhefilee kurgipadjal](https://user-images.githubusercontent.com/81916500/114321949-472b1380-9b26-11eb-8f7e-40a20e97c15f.jpg)
+![Lõhefilee peale ahju](https://user-images.githubusercontent.com/81916500/114321950-485c4080-9b26-11eb-8a77-ef9ee0abc4e8.jpg)
+![Lõhepizza](https://user-images.githubusercontent.com/81916500/114321951-485c4080-9b26-11eb-998e-0f46f244e9a1.jpg)
+![Vunts 1 ](https://user-images.githubusercontent.com/81916500/114321952-48f4d700-9b26-11eb-93a2-196134fb7706.JPG)
+![Catering pilt](https://user-images.githubusercontent.com/81916500/114321954-498d6d80-9b26-11eb-8683-60a2a329102c.jpg)
 
 1. Numbered
 2. List
