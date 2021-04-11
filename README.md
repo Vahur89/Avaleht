@@ -5,9 +5,9 @@ Vaata meie tegemisi!
 
 Tooted
 
-Külmsuitsu lõhefilee(https://user-images.githubusercontent.com/81916500/114323144-9b38f680-9b2c-11eb-8d9f-a31376116da0.jpg)
+[Külmsuitsu lõhefilee](https://user-images.githubusercontent.com/81916500/114323144-9b38f680-9b2c-11eb-8d9f-a31376116da0.jpg)
 
-Külmsuitsu lõhefilee apelsini-ja sidrunipipraga(https://user-images.githubusercontent.com/81916500/114322822-e4884680-9b2a-11eb-8a89-15edefed370f.jpg)
+[Külmsuitsu lõhefilee apelsini-ja sidrunipipraga](https://user-images.githubusercontent.com/81916500/114322822-e4884680-9b2a-11eb-8a89-15edefed370f.jpg)
 
 Külmsuitsu lõhefilee musta pipraga(https://user-images.githubusercontent.com/81916500/114322767-ab4fd680-9b2a-11eb-9035-6095ebb1b24f.jpg)
 
